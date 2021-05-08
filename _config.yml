@@ -52,6 +52,17 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Statistics</mark> and <mark>Python</mark>.
 
+
+###
+    - layout: left
+      title: National Taiwan University
+      caption: 2021 - Present (visiting studnet)
+      sub_title: Master of Electrical Engineering - Computer Science Major
+      quote: >
+        Taipei, Taiwan
+      description: | # this will include new lines to allow paragraphs
+
+
 # Education.
 content:
   - title: Education # Title for the section
@@ -65,12 +76,6 @@ content:
           New York City, New York
         description: | # this will include new lines to allow paragraphs
           Due to COVID-19 pandemic, I deferred my admission to 2021 and chose to become a visiting student at National Taiwan University.
-
-# Additional icon links
-additional_links:
-- title: Website link
-  icon: fas fa-globe
-  url: kaiicheng.github.io
 
       - layout: left
         title: National Taiwan University
