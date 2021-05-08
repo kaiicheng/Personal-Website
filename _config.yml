@@ -167,6 +167,83 @@ content:
         description: | # this will include new lines to allow paragraphs
           Worked as model for product advertisements and organized product promotion event.
 
+# Leadership and experience.
+  - title: Leadership and Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title:  National Palace Museum (國立故宮博物院)
+        # link: ucarer.tw
+        # link_text: boringcompany.com
+        sub_title: Overseas Youth Ambassadors
+        caption: February 2021 - Present
+        quote: >
+          Taipei, Taiwan
+        # description: | # this will include new lines to allow paragraphs #
+        #   Optimize user experience by improving website’s user interface and mobile application design.
+
+      - layout: left
+        title: Harvard College Project for Asian and International Relations (HPAIR)
+        # link: oia.ntu.edu.tw
+        # link_text: boringcompany.com
+        sub_title: Delegate
+        caption: January 2021
+        quote: >
+          Boston, Massachusetts
+        # description: | # this will include new lines to allow paragraphs
+        #   Worked as model for product advertisements and organized product promotion event.
+
+      - layout: left
+        title: European Forum Alpbach (EFA)
+        # link: oia.ntu.edu.tw
+        # link_text: boringcompany.com
+        sub_title: Scholarship Holder
+        caption: August 2020 – September 2020
+        quote: >
+          Alpbach, Austria
+        # description: | # this will include new lines to allow paragraphs
+        #   Worked as model for product advertisements and organized product promotion event.
+
+      - layout: left
+        title: Northeast Asia Student Round Table
+        # link: oia.ntu.edu.tw
+        # link_text: boringcompany.com
+        sub_title: Representative of Taiwan
+        caption: July 2018 – August 2018
+        quote: >
+          Seoul, South Korea
+        # description: | # this will include new lines to allow paragraphs
+        #   Worked as model for product advertisements and organized product promotion event.
+
+      - layout: left
+        title: Harvard College in Asia Program (HCAP)
+        # link: oia.ntu.edu.tw
+        # link_text: boringcompany.com
+        sub_title: Representative of Taiwan
+        caption: January 2018 – February 2018
+        quote: >
+          Boston, Massachusetts
+        # description: | # this will include new lines to allow paragraphs
+        #   Worked as model for product advertisements and organized product promotion event.
+
+      - layout: left
+        title: Rural Area Teaching Program
+        # link: oia.ntu.edu.tw
+        # link_text: boringcompany.com
+        sub_title: Teaching Volunteer
+        caption: February 2017 – September 2017
+        quote: >
+          Yunnan, China
+
+      - layout: left
+        title: Worldwide Friends Iceland Environment Volunteer Project
+        # link: oia.ntu.edu.tw
+        # link_text: boringcompany.com
+        sub_title: Volunteer
+        caption: July 2015 – August 2015
+        quote: >
+          Hveragerði, Iceland
+
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
