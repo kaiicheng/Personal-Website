@@ -54,6 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 ###
+content:
     - layout: left
       title: National Taiwan University
       caption: 2021 - Present (visiting studnet)
