@@ -52,6 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   As well as statistics, I also have experience conducting academic and market researh.
 
   I have worked at a number of companies and student associations gaining teamwork and leadership skills.
+
   I am most skilled in: <mark>Statistics</mark> and <mark>Python</mark>.
 
 content:
@@ -86,18 +87,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           Due to COVID-19 pandemic, I deferred my admission to 2021 and chose to become a visiting student at National Taiwan University.
 
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: National Taiwan University
-        caption: 2021 - Present
-        sub_title: Master of Electrical Engineering-Computer Science Major
-        quote: >
-          Taipei, Taiwan
-        description: | # this will include new lines to allow paragraphs
-          Relevant Coursework: Advanced Statistics II, Data Structures & Algorithms, Machine Learning, Operation Systems, Computer Architecture. Computer Programming, Introduction to Computer Science.
-
   #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: National Taiwan University
+  #       caption: 2021 - Present
+  #       sub_title: Master of Electrical Engineering-Computer Science Major
+  #       quote: >
+  #         Taipei, Taiwan
+  #       description: | # this will include new lines to allow paragraphs
+  #         Relevant Coursework: Advanced Statistics II, Data Structures & Algorithms, Machine Learning, Operation Systems, Computer Architecture. Computer Programming, Introduction to Computer Science.
+  #
+  # #   layout: list # Type of content section (list/text)
   #   content:
   #     - layout: left
   #       title: National Taiwan University
