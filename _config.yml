@@ -111,7 +111,7 @@ content:
     content:
       - layout: left
         title: Academia Sinica (中央研究院)
-        link: www.sinica.edu.tw/
+        link: www.sinica.edu.tw/tw
         # link_text: boringcompany.com
         sub_title: Statistical Assistant
         caption: March 2019 - February 2020
