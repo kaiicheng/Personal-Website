@@ -86,8 +86,8 @@ content:
           Due to COVID-19 pandemic, I deferred my admission to 2021 and chose to become a visiting student at National Taiwan University.
 
   # # # - title: #Education # Title for the section
-  # # - layout: list # Type of content section (list/text)
-    # content:
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: National Taiwan University
         caption: 2021 - Present
