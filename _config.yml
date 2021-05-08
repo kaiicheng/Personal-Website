@@ -136,7 +136,7 @@ content:
 
       - layout: left
         title: Kantar Market Research and Consulting Company
-        link: kantar.com.tw/eng/
+        link: kantar.com.tw
         # link_text: boringcompany.com
         sub_title: Market Analyst - Qual/Quant
         caption: February 2020 - July 2020
@@ -146,18 +146,26 @@ content:
           Conduct quantitative and qualitative market research to help clients track/monitor public opinion.
 
       - layout: left
-        title: Kantar Market Research and Consulting Company
-        link: kantar.com.tw/eng/
+        title: Taidah Entrepreneurship Center (台大創創中心)
+        link: tec.ntu.edu.tw
         # link_text: boringcompany.com
-        sub_title: Market Analyst - Qual/Quant
-        caption: February 2020 - July 2020
+        sub_title: Startup Project Assistant
+        caption: February 2018 - July 2018
         quote: >
           Taipei, Taiwan
         description: | # this will include new lines to allow paragraphs
-          Conduct quantitative and qualitative market research to help clients track/monitor public opinion.
+          Assisted in accelerator program by facilitating startups to engage with potential business partners and funding firms.
 
-
-
+      - layout: left
+        title: Office of NTU International Affairs
+        link: oia.ntu.edu.tw
+        # link_text: boringcompany.com
+        sub_title: SoNTU Marketing Intern/Brand ambassador
+        caption: September 2016 - June 2017
+        quote: >
+          Taipei, Taiwan
+        description: | # this will include new lines to allow paragraphs
+          Worked as model for product advertisements and organized product promotion event.
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
