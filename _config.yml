@@ -74,7 +74,7 @@ content:
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
         title: Columbia University in the City of New York
@@ -85,17 +85,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           Due to COVID-19 pandemic, I deferred my admission to 2021 and chose to become a visiting student at National Taiwan University.
 
-  # # - title: #Education # Title for the section
-  # - layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: National Taiwan University
-        caption: 2021 - Present
-        sub_title: Master of Electrical Engineering-Computer Science Major
-        quote: >
-          Taipei, Taiwan
-        description: | # this will include new lines to allow paragraphs
-          Relevant Coursework: Advanced Statistics II, Data Structures & Algorithms, Machine Learning, Operation Systems, Computer Architecture. Computer Programming, Introduction to Computer Science.
+  # # # - title: #Education # Title for the section
+  # # - layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: National Taiwan University
+  #       caption: 2021 - Present
+  #       sub_title: Master of Electrical Engineering-Computer Science Major
+  #       quote: >
+  #         Taipei, Taiwan
+  #       description: | # this will include new lines to allow paragraphs
+  #         Relevant Coursework: Advanced Statistics II, Data Structures & Algorithms, Machine Learning, Operation Systems, Computer Architecture. Computer Programming, Introduction to Computer Science.
 
   # # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
