@@ -15,7 +15,7 @@ website: kaiicheng.github.io
 darkmode: false
 
 # Social links
-twitter_username: kaiiicheng
+twitter_username: kaicheng1117
 github_username:  kaiicheng
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -111,7 +111,7 @@ content:
     content:
       - layout: left
         title: Academia Sinica (中央研究院)
-        link: sinica.edu.tw/en
+        link: sinica.edu.tw
         # link_text: boringcompany.com
         sub_title: Statistical Assistant
         caption: March 2019 - February 2020
