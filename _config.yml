@@ -90,7 +90,7 @@ content:
         quote: >
           Taipei, Taiwan
         description: | # this will include new lines to allow paragraphs
-  #      	Relevant Coursework: Social Statistics, Social Research Method, Introductory Sociology, Calculus, International Finance, Business Management, Accounting Principles, Economic Sociology, Social Organization, Principles of Economics.
+       	Relevant Coursework: Social Statistics, Social Research Method, Introductory Sociology, Calculus, International Finance, Business Management, Accounting Principles, Economic Sociology, Social Organization, Principles of Economics.
   #
   # # # # # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
