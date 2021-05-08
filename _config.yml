@@ -87,15 +87,15 @@ content:
 
   # # # - title: #Education # Title for the section
   # # - layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       title: National Taiwan University
-  #       caption: 2021 - Present
-  #       sub_title: Master of Electrical Engineering-Computer Science Major
-  #       quote: >
-  #         Taipei, Taiwan
-  #       description: | # this will include new lines to allow paragraphs
-  #         Relevant Coursework: Advanced Statistics II, Data Structures & Algorithms, Machine Learning, Operation Systems, Computer Architecture. Computer Programming, Introduction to Computer Science.
+    content:
+      - layout: left
+        title: National Taiwan University
+        caption: 2021 - Present
+        sub_title: Master of Electrical Engineering-Computer Science Major
+        quote: >
+          Taipei, Taiwan
+        description: | # this will include new lines to allow paragraphs
+          Relevant Coursework: Advanced Statistics II, Data Structures & Algorithms, Machine Learning, Operation Systems, Computer Architecture. Computer Programming, Introduction to Computer Science.
 
   # # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
